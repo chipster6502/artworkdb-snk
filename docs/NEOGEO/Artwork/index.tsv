@@ -138,6 +138,8 @@ Bust-A-Move (bootleg) (pbobblenb)			pbobblen
 Bust-A-Move (pbobblen)			pbobblen
 Bust-A-Move Again			pbobbl2n
 Bust-A-Move Again (pbobbl2n)			pbobbl2n
+Cabal			cabalng
+Cabal (cabalng)			cabalng
 Captain Tomaday			ctomaday
 Captain Tomaday (ctomaday)			ctomaday
 Chibi Marukochan Deluxe Quiz			marukodq
@@ -149,6 +151,8 @@ Choutetsu Brikin'ger (ironclad)			ironclad
 Choutetsu Brikin'ger (prototype, bootleg)			ironclad
 Choutetsu Brikin'ger (prototype, bootleg) (irnclado)			ironclad
 Choutetsu Brikin'ger (prototype, bootleg) (ironclado)			ironclad
+Columns			columnsn
+Columns (columnsn)			columnsn
 Crossed Swords			crsword
 Crossed Swords (crsword)			crsword
 Crossed Swords 2 (CD conversion)			crswd2bl
@@ -591,6 +595,8 @@ Neo Drift Out: New Technology			neodrift
 Neo Drift Out: New Technology (neodrift)			neodrift
 Neo Mr. Do!			neomrdo
 Neo Mr. Do! (neomrdo)			neomrdo
+Neo TRIS (free beta version)			neotris
+Neo TRIS (free beta version) (neotris)			neotris
 Neo Thunder			neothund
 Neo Thunder (neothund)			neothund
 Neo Turf Masters			turfmast
@@ -601,6 +607,9 @@ Neo-Geo Cup 98 - The Road to the Victory			neocup98
 Neo-Geo Cup 98 - The Road to the Victory (neocup98)			neocup98
 Neo-Geo Cup 98: The Road to the Victory			neocup98
 Neo-Geo Cup 98: The Road to the Victory (neocup98)			neocup98
+NeoTRIS (free beta version)			neotris
+NeoTRIS (free beta version) (neotris)			neotris
+NeoTRIS (neotris)			neotris
 New Technology			neodrift
 New Technology (neodrift)			neodrift
 Nightmare in the Dark			nitd
@@ -916,6 +925,8 @@ Street Slam			strhoop
 Street Slam (strhoop)			strhoop
 Strikers 1945 Plus			s1945p
 Strikers 1945 Plus (s1945p)			s1945p
+Super Bubble Pop			sbp
+Super Bubble Pop (sbp)			sbp
 Super Dodge Ball			sdodgeb
 Super Dodge Ball (sdodgeb)			sdodgeb
 Super Sidekicks			ssideki
@@ -1158,6 +1169,8 @@ brnngfpa			burningf
 bstars			bstars
 bstars2			bstars2
 burningf			burningf
+cabalng			cabalng
+columnsn			columnsn
 crswd2bl			crswd2bl
 crsword			crsword
 ctomaday			ctomaday
@@ -1246,6 +1259,7 @@ neocup98			neocup98
 neodrift			neodrift
 neomrdo			neomrdo
 neothund			neothund
+neotris			neotris
 nitd			nitd
 overtop			overtop
 panicbom			panicbom
@@ -1280,6 +1294,7 @@ samsho3			samsho3
 samsho4			samsho4
 samsho5			samsho5
 savagere			savagere
+sbp			sbp
 scbrawlh			socbrawl
 sdodgeb			sdodgeb
 sengoku			sengoku
