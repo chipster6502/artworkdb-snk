@@ -492,8 +492,8 @@ Last Resort (lresort)			lresort
 Last Resort (lresortp)			lresort
 Last Resort (prototype)			lresort
 Last Resort (prototype) (lresortp)			lresort
-Last Soldier, The			lastsold
-Last Soldier, The (lastsold)			lastsold
+Last Soldier, The			lastblad
+Last Soldier, The (lastsold)			lastblad
 League Bowling			lbowling
 League Bowling (lbowling)			lbowling
 Legend of Success Joe			legendos
@@ -777,11 +777,11 @@ Samurai Shodown (samsho)			samsho
 Samurai Shodown (samshoh)			samsho
 Samurai Shodown II			samsho2
 Samurai Shodown II (samsho2)			samsho2
-Samurai Shodown III			samsho3
-Samurai Shodown III (NGH-087)			samsho3
-Samurai Shodown III (NGH-087) (samsho3h)			samsho3
-Samurai Shodown III (samsho3)			samsho3
-Samurai Shodown III (samsho3h)			samsho3
+Samurai Shodown III			fswords
+Samurai Shodown III (NGH-087)			fswords
+Samurai Shodown III (NGH-087) (samsho3h)			fswords
+Samurai Shodown III (samsho3)			fswords
+Samurai Shodown III (samsho3h)			fswords
 Samurai Shodown IV			samsho4
 Samurai Shodown IV (samsho4)			samsho4
 Samurai Shodown IV - Amakusa's Revenge			samsho4
@@ -815,15 +815,15 @@ Samurai Spirits			samsho
 Samurai Spirits (NGH-045)			samsho
 Samurai Spirits (NGH-045) (samshoh)			samsho
 Samurai Spirits (samsho)			samsho
-Samurai Spirits (samsho3)			samsho3
-Samurai Spirits (samsho3h)			samsho3
+Samurai Spirits (samsho3)			fswords
+Samurai Spirits (samsho3h)			fswords
 Samurai Spirits (samsho4)			samsho4
 Samurai Spirits - Amakusa Kourin			samsho4
 Samurai Spirits - Amakusa Kourin (samsho4)			samsho4
-Samurai Spirits - Zankurou Musouken			samsho3
-Samurai Spirits - Zankurou Musouken (NGH-087)			samsho3
-Samurai Spirits - Zankurou Musouken (NGH-087) (samsho3h)			samsho3
-Samurai Spirits - Zankurou Musouken (samsho3)			samsho3
+Samurai Spirits - Zankurou Musouken			fswords
+Samurai Spirits - Zankurou Musouken (NGH-087)			fswords
+Samurai Spirits - Zankurou Musouken (NGH-087) (samsho3h)			fswords
+Samurai Spirits - Zankurou Musouken (samsho3)			fswords
 Samurai Spirits Zero			samsho5
 Samurai Spirits Zero (NGH-2700)			samsho5
 Samurai Spirits Zero (NGH-2700) (samsho5h)			samsho5
@@ -842,10 +842,10 @@ Samurai Spirits Zero Special (2nd release, less censored) (smsh5sph)			samsh5sp
 Samurai Spirits Zero Special (samsh5sp)			samsh5sp
 Samurai Spirits: Amakusa Kourin			samsho4
 Samurai Spirits: Amakusa Kourin (samsho4)			samsho4
-Samurai Spirits: Zankurou Musouken			samsho3
-Samurai Spirits: Zankurou Musouken (NGH-087)			samsho3
-Samurai Spirits: Zankurou Musouken (NGH-087) (samsho3h)			samsho3
-Samurai Spirits: Zankurou Musouken (samsho3)			samsho3
+Samurai Spirits: Zankurou Musouken			fswords
+Samurai Spirits: Zankurou Musouken (NGH-087)			fswords
+Samurai Spirits: Zankurou Musouken (NGH-087) (samsho3h)			fswords
+Samurai Spirits: Zankurou Musouken (samsho3)			fswords
 Savage Reign			savagere
 Savage Reign (savagere)			savagere
 Sengoku (NGH-017, US)			sengoku
@@ -1008,8 +1008,8 @@ The Last Blade 2			lastbld2
 The Last Blade 2 (lastbld2)			lastbld2
 The Last Count Down			quizdais
 The Last Count Down (quizdais)			quizdais
-The Last Soldier			lastsold
-The Last Soldier (lastsold)			lastsold
+The Last Soldier			lastblad
+The Last Soldier (lastsold)			lastblad
 The Newcomers			rbff2
 The Newcomers (Korean release)			rbff2
 The Newcomers (Korean release) (rbff2k)			rbff2
@@ -1133,10 +1133,10 @@ World Heroes Perfect			whp
 World Heroes Perfect (whp)			whp
 Xeno Crisis			xenocrisis
 Xeno Crisis (xenocrisis)			xenocrisis
-Zankurou Musouken			samsho3
-Zankurou Musouken (NGH-087)			samsho3
-Zankurou Musouken (NGH-087) (samsho3h)			samsho3
-Zankurou Musouken (samsho3)			samsho3
+Zankurou Musouken			fswords
+Zankurou Musouken (NGH-087)			fswords
+Zankurou Musouken (NGH-087) (samsho3h)			fswords
+Zankurou Musouken (samsho3)			fswords
 Zed Blade			zedblade
 Zed Blade (zedblade)			zedblade
 Zin Tric K			zintrckb
@@ -1228,7 +1228,7 @@ kotm2			kotm2
 lastblad			lastblad
 lastbld2			lastbld2
 lasthope			lasthope
-lastsold			lastsold
+lastsold			lastblad
 lbowling			lbowling
 legendos			legendos
 looptris			looptris
@@ -1290,7 +1290,7 @@ s1945p			s1945p
 samsh5sp			samsh5sp
 samsho			samsho
 samsho2			samsho2
-samsho3			samsho3
+samsho3			fswords
 samsho4			samsho4
 samsho5			samsho5
 savagere			savagere
